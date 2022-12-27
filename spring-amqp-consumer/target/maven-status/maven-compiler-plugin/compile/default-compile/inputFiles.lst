@@ -1,0 +1,13 @@
+/Users/jaircavalcante/Documents/projects/amqp-messages/spring-amqp-consumer/src/main/java/com/example/spring/consumer/service/implementation/RePublishServiceImpl.java
+/Users/jaircavalcante/Documents/projects/amqp-messages/spring-amqp-consumer/src/main/java/com/example/spring/consumer/amqp/implementation/RePublishRabbitMQ.java
+/Users/jaircavalcante/Documents/projects/amqp-messages/spring-amqp-consumer/src/main/java/com/example/spring/consumer/configuration/ProducerRabbitConfiguration.java
+/Users/jaircavalcante/Documents/projects/amqp-messages/spring-amqp-consumer/src/main/java/com/example/spring/consumer/api/AmqpApi.java
+/Users/jaircavalcante/Documents/projects/amqp-messages/spring-amqp-consumer/src/main/java/com/example/spring/consumer/amqp/implementation/ConsumerRabbitMQ.java
+/Users/jaircavalcante/Documents/projects/amqp-messages/spring-amqp-consumer/src/main/java/com/example/spring/consumer/configuration/RabbitConfiguration.java
+/Users/jaircavalcante/Documents/projects/amqp-messages/spring-amqp-consumer/src/main/java/com/example/spring/consumer/service/implementation/ConsumerServiceImpl.java
+/Users/jaircavalcante/Documents/projects/amqp-messages/spring-amqp-consumer/src/main/java/com/example/spring/consumer/service/RePublishService.java
+/Users/jaircavalcante/Documents/projects/amqp-messages/spring-amqp-consumer/src/main/java/com/example/spring/consumer/SpringConsumerApplication.java
+/Users/jaircavalcante/Documents/projects/amqp-messages/spring-amqp-consumer/src/main/java/com/example/spring/consumer/dto/MessageQueue.java
+/Users/jaircavalcante/Documents/projects/amqp-messages/spring-amqp-consumer/src/main/java/com/example/spring/consumer/service/ConsumerService.java
+/Users/jaircavalcante/Documents/projects/amqp-messages/spring-amqp-consumer/src/main/java/com/example/spring/consumer/amqp/AmqpConsumer.java
+/Users/jaircavalcante/Documents/projects/amqp-messages/spring-amqp-consumer/src/main/java/com/example/spring/consumer/amqp/AmqpRePublish.java

@@ -1,0 +1,13 @@
+com/example/spring/consumer/amqp/implementation/ConsumerRabbitMQ.class
+com/example/spring/consumer/service/ConsumerService.class
+com/example/spring/consumer/amqp/implementation/RePublishRabbitMQ.class
+com/example/spring/consumer/service/implementation/ConsumerServiceImpl.class
+com/example/spring/consumer/dto/MessageQueue.class
+com/example/spring/consumer/SpringConsumerApplication.class
+com/example/spring/consumer/configuration/RabbitConfiguration.class
+com/example/spring/consumer/amqp/AmqpConsumer.class
+com/example/spring/consumer/amqp/AmqpRePublish.class
+com/example/spring/consumer/api/AmqpApi.class
+com/example/spring/consumer/service/implementation/RePublishServiceImpl.class
+com/example/spring/consumer/configuration/ProducerRabbitConfiguration.class
+com/example/spring/consumer/service/RePublishService.class
